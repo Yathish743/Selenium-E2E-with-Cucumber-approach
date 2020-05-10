@@ -51,6 +51,9 @@ public class HomePage extends base {
 		//System.out.println(Textmessage);
 		Log.info(Textmessage);
 		lp.LogIn().click();
+		Log.info(Textmessage);
+		Log.info(Textmessage);
+		Log.info(Textmessage);
 	}
 	
 	@AfterTest

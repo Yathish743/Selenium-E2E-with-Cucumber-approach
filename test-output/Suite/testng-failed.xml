@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Login to QaClickAcademy with Two user&#039;s(failed)">
+    <classes>
+      <class name="cucumberOptions.TestRunnerQaAcademy">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- cucumberOptions.TestRunnerQaAcademy -->
+    </classes>
+  </test> <!-- Login to QaClickAcademy with Two user's(failed) -->
+</suite> <!-- Failed suite [Suite] -->

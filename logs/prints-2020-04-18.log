@@ -1,0 +1,68 @@
+00:07:01.762 [main] INFO  Academy.validateNavigationBar - Driver is initialized
+00:07:06.709 [main] INFO  Academy.validateNavigationBar - Url hit the Browser and Navigated to Home Page
+00:07:07.958 [main] INFO  Academy.validateNavigationBar - Window maximized
+00:07:10.233 [main] INFO  Academy.validateNavigationBar - Navigation tool Bar is displayed
+00:07:12.597 [main] INFO  Academy.validateNavigationBar - Window Tab Closed
+00:07:13.186 [main] INFO  Academy.validateNavigationBar - Browser Quited
+14:27:05.657 [main] INFO  Academy.HomePage - Driver is initialized
+14:27:05.684 [main] INFO  Academy.HomePage - First row set of Data
+14:27:05.685 [main] INFO  Academy.HomePage - Second row set of Data
+14:27:11.186 [main] INFO  Academy.HomePage - Url hit the Browser and Navigated to Home Page
+14:27:12.444 [main] INFO  Academy.HomePage - Window maximized
+14:27:12.452 [main] INFO  Academy.HomePage - Langing Page Object created
+14:27:27.711 [main] INFO  Academy.HomePage - Clicked on Login
+14:27:27.712 [main] INFO  Academy.HomePage - Login Page Object created
+14:27:28.010 [main] INFO  Academy.HomePage - Username is Entered
+14:27:28.162 [main] INFO  Academy.HomePage - Password is Entered
+14:27:28.163 [main] INFO  Academy.HomePage - Am a correct User
+14:27:33.590 [main] INFO  Academy.HomePage - Url hit the Browser and Navigated to Home Page
+14:27:33.595 [main] INFO  Academy.HomePage - Window maximized
+14:27:33.595 [main] INFO  Academy.HomePage - Langing Page Object created
+14:27:37.582 [main] INFO  Academy.HomePage - Clicked on Login
+14:27:37.582 [main] INFO  Academy.HomePage - Login Page Object created
+14:27:37.744 [main] INFO  Academy.HomePage - Username is Entered
+14:27:37.865 [main] INFO  Academy.HomePage - Password is Entered
+14:27:37.865 [main] INFO  Academy.HomePage - Am a Wrong User
+14:27:43.203 [main] INFO  Academy.HomePage - Window Tab Closed
+14:27:44.239 [main] INFO  Academy.HomePage - Browser Quited
+14:27:47.007 [main] INFO  Academy.validateTitle - Driver is initialized
+14:27:50.675 [main] INFO  Academy.validateTitle - Url hit the Browser and Navigated to Home Page
+14:27:51.834 [main] INFO  Academy.validateTitle - Window maximized
+14:27:54.855 [main] INFO  Academy.validateTitle - Window Tab Closed
+14:27:55.517 [main] INFO  Academy.validateTitle - Browser Quited
+14:27:58.258 [main] INFO  Academy.validateNavigationBar - Driver is initialized
+14:28:02.776 [main] INFO  Academy.validateNavigationBar - Url hit the Browser and Navigated to Home Page
+14:28:03.882 [main] INFO  Academy.validateNavigationBar - Window maximized
+14:28:04.052 [main] INFO  Academy.validateNavigationBar - Navigation tool Bar is displayed
+14:28:06.147 [main] INFO  Academy.validateNavigationBar - Window Tab Closed
+14:28:06.806 [main] INFO  Academy.validateNavigationBar - Browser Quited
+14:50:02.289 [main] INFO  Academy.HomePage - Driver is initialized
+14:50:02.308 [main] INFO  Academy.HomePage - First row set of Data
+14:50:02.308 [main] INFO  Academy.HomePage - Second row set of Data
+14:50:05.727 [main] INFO  Academy.HomePage - Url hit the Browser and Navigated to Home Page
+14:50:06.941 [main] INFO  Academy.HomePage - Window maximized
+14:50:06.945 [main] INFO  Academy.HomePage - Langing Page Object created
+14:51:30.652 [main] INFO  Academy.HomePage - Clicked on Login
+14:51:30.654 [main] INFO  Academy.HomePage - Login Page Object created
+14:51:30.993 [main] INFO  Academy.HomePage - Username is Entered
+14:51:31.368 [main] INFO  Academy.HomePage - Password is Entered
+14:51:31.368 [main] INFO  Academy.HomePage - Am a correct User
+14:52:09.632 [main] INFO  Academy.HomePage - Url hit the Browser and Navigated to Home Page
+14:52:09.672 [main] INFO  Academy.HomePage - Window maximized
+14:52:09.673 [main] INFO  Academy.HomePage - Langing Page Object created
+14:52:17.289 [main] INFO  Academy.HomePage - Clicked on Login
+14:52:17.289 [main] INFO  Academy.HomePage - Login Page Object created
+14:52:17.617 [main] INFO  Academy.HomePage - Username is Entered
+14:52:18.028 [main] INFO  Academy.HomePage - Password is Entered
+14:52:18.029 [main] INFO  Academy.HomePage - Am a Wrong User
+14:52:25.112 [main] INFO  Academy.HomePage - Window Tab Closed
+14:52:25.920 [main] INFO  Academy.HomePage - Browser Quited
+14:52:28.694 [main] INFO  Academy.validateTitle - Driver is initialized
+14:52:32.151 [main] INFO  Academy.validateTitle - Url hit the Browser and Navigated to Home Page
+14:52:33.367 [main] INFO  Academy.validateTitle - Window maximized
+14:52:37.034 [main] INFO  Academy.validateTitle - Window Tab Closed
+14:52:37.692 [main] INFO  Academy.validateTitle - Browser Quited
+14:52:40.891 [main] INFO  Academy.validateNavigationBar - Driver is initialized
+14:52:45.645 [main] INFO  Academy.validateNavigationBar - Url hit the Browser and Navigated to Home Page
+14:52:46.898 [main] INFO  Academy.validateNavigationBar - Window maximized
+14:52:47.309 [main] INFO  Academy.validateNavigationBar - Navigation tool Bar is displayed

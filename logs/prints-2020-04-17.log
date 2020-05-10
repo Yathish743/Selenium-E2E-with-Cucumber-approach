@@ -1,0 +1,8 @@
+23:46:50.223 [main] INFO  Academy.HomePage - Username is Entered
+23:46:50.929 [main] INFO  Academy.HomePage - Password is Entered
+23:46:50.930 [main] INFO  Academy.HomePage - Am a Wrong User
+23:46:56.679 [main] INFO  Academy.validateTitle - Successfully validated Text Message
+23:46:56.849 [main] INFO  Academy.validateNavigationBar - Navigation tool Bar is displayed
+23:46:59.273 [main] INFO  Academy.HomePage - Window Tab Closed
+23:46:59.933 [main] INFO  Academy.HomePage - Browser Quited
+23:47:00.231 [main] INFO  Academy.validateNavigationBar - Window Tab Closed

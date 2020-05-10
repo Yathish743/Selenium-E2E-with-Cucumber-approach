@@ -1,0 +1,34 @@
+14:52:49.673 [main] INFO  Academy.validateNavigationBar - Window Tab Closed
+14:52:50.329 [main] INFO  Academy.validateNavigationBar - Browser Quited
+00:49:26.460 [main] INFO  Academy.HomePage - Driver is initialized
+00:49:26.586 [main] INFO  Academy.HomePage - First row set of Data
+00:49:26.586 [main] INFO  Academy.HomePage - Second row set of Data
+00:49:30.234 [main] INFO  Academy.HomePage - Url hit the Browser and Navigated to Home Page
+00:49:31.388 [main] INFO  Academy.HomePage - Window maximized
+00:49:31.395 [main] INFO  Academy.HomePage - Langing Page Object created
+00:49:46.529 [main] INFO  Academy.HomePage - Clicked on Login
+00:49:46.531 [main] INFO  Academy.HomePage - Login Page Object created
+00:49:46.813 [main] INFO  Academy.HomePage - Username is Entered
+00:49:47.105 [main] INFO  Academy.HomePage - Password is Entered
+00:49:47.105 [main] INFO  Academy.HomePage - Am a correct User
+00:49:57.476 [main] INFO  Academy.HomePage - Url hit the Browser and Navigated to Home Page
+00:49:57.486 [main] INFO  Academy.HomePage - Window maximized
+00:49:57.486 [main] INFO  Academy.HomePage - Langing Page Object created
+00:50:05.114 [main] INFO  Academy.HomePage - Clicked on Login
+00:50:05.114 [main] INFO  Academy.HomePage - Login Page Object created
+00:50:05.390 [main] INFO  Academy.HomePage - Username is Entered
+00:50:05.782 [main] INFO  Academy.HomePage - Password is Entered
+00:50:05.782 [main] INFO  Academy.HomePage - Am a Wrong User
+00:50:11.528 [main] INFO  Academy.HomePage - Window Tab Closed
+00:50:12.649 [main] INFO  Academy.HomePage - Browser Quited
+00:50:15.444 [main] INFO  Academy.validateTitle - Driver is initialized
+00:50:20.505 [main] INFO  Academy.validateTitle - Url hit the Browser and Navigated to Home Page
+00:50:21.684 [main] INFO  Academy.validateTitle - Window maximized
+00:50:26.444 [main] INFO  Academy.validateTitle - Window Tab Closed
+00:50:27.158 [main] INFO  Academy.validateTitle - Browser Quited
+00:50:29.910 [main] INFO  Academy.validateNavigationBar - Driver is initialized
+00:53:28.336 [main] INFO  Academy.validateNavigationBar - Url hit the Browser and Navigated to Home Page
+00:53:29.391 [main] INFO  Academy.validateNavigationBar - Window maximized
+00:53:29.452 [main] INFO  Academy.validateNavigationBar - Navigation tool Bar is displayed
+00:53:31.587 [main] INFO  Academy.validateNavigationBar - Window Tab Closed
+00:53:32.317 [main] INFO  Academy.validateNavigationBar - Browser Quited
